@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T10:59:01.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Qp44w4aOJdSXMC80b6pY" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T11:04:01.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gd31X46DlYnVpA5ZoilU" version="22.1.5" type="github">
   <diagram name="Pagina-1" id="qciENuRhxDM16z5-KsNE">
-    <mxGraphModel dx="4434" dy="3058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4234" dy="2931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,17 +82,17 @@
         <mxCell id="ZxOc-NwCXkHzNGyO08E0-72" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;align=center;" parent="ZxOc-NwCXkHzNGyO08E0-48" vertex="1">
           <mxGeometry y="173" width="841" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="ZxOc-NwCXkHzNGyO08E0-73" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4 USER set the maximum allowed t&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;otal errors and&amp;nbsp;&lt;/span&gt;consecutive&amp;nbsp;errors" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="ZxOc-NwCXkHzNGyO08E0-72" vertex="1">
+        <mxCell id="ZxOc-NwCXkHzNGyO08E0-73" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4 SYSTEM show the histogram of attributes with scaled distribution &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;and the table with balancing scores" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="ZxOc-NwCXkHzNGyO08E0-72" vertex="1">
           <mxGeometry width="480" height="44" as="geometry">
             <mxRectangle width="480" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZxOc-NwCXkHzNGyO08E0-74" value="1 x 1 x 2.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="ZxOc-NwCXkHzNGyO08E0-72" vertex="1">
+        <mxCell id="ZxOc-NwCXkHzNGyO08E0-74" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="ZxOc-NwCXkHzNGyO08E0-72" vertex="1">
           <mxGeometry x="480" width="200" height="44" as="geometry">
             <mxRectangle width="200" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZxOc-NwCXkHzNGyO08E0-75" value="2.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="ZxOc-NwCXkHzNGyO08E0-72" vertex="1">
+        <mxCell id="ZxOc-NwCXkHzNGyO08E0-75" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="ZxOc-NwCXkHzNGyO08E0-72" vertex="1">
           <mxGeometry x="680" width="161" height="44" as="geometry">
             <mxRectangle width="161" height="44" as="alternateBounds" />
           </mxGeometry>
