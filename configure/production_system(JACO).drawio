@@ -10,9 +10,6 @@
                 <mxCell id="3" value="Confirm" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#2D7600;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#60a917;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="415" y="500" width="150" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="Go back" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#B20000;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e51400;whiteSpace=wrap;fontColor=#ffffff;" parent="1" vertex="1">
-                    <mxGeometry x="195" y="500" width="150" height="50" as="geometry"/>
-                </mxCell>
                 <mxCell id="5" value="Upper bound for absolut outlier detection:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="80" y="150" width="240" height="30" as="geometry"/>
                 </mxCell>
