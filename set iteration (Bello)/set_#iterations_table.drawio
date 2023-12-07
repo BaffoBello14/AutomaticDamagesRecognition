@@ -172,7 +172,7 @@
                 <mxCell id="aeb6ncdT7JwG7wCMBw5e-77" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="aeb6ncdT7JwG7wCMBw5e-1" vertex="1">
                     <mxGeometry y="393" width="841" height="44" as="geometry"/>
                 </mxCell>
-                <mxCell id="aeb6ncdT7JwG7wCMBw5e-78" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;4 USER close the set #iterations windows" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" parent="aeb6ncdT7JwG7wCMBw5e-77" vertex="1">
+                <mxCell id="aeb6ncdT7JwG7wCMBw5e-78" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;4 USER closes the set #iterations windows" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" parent="aeb6ncdT7JwG7wCMBw5e-77" vertex="1">
                     <mxGeometry width="480" height="44" as="geometry">
                         <mxRectangle width="480" height="44" as="alternateBounds"/>
                     </mxGeometry>
