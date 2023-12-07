@@ -79,7 +79,7 @@
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-57" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox;fillColor=#008465;strokeColor=none;html=1;sketch=0;" parent="EfdLprBS7-gR66xgq3Gq-1" vertex="1">
                     <mxGeometry y="19.5" width="14" height="14" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="" style="group" vertex="1" connectable="0" parent="1">
+                <mxCell id="2" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="100" y="120" width="455" height="210" as="geometry"/>
                 </mxCell>
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-75" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=12;" parent="2" vertex="1">
