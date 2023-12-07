@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="C3VMw4yVdiIqAn-BuisE" name="Page-1">
-        <mxGraphModel dx="1815" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1767" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -136,7 +136,7 @@
                 <mxCell id="172" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;align=center;" vertex="1" parent="86">
                     <mxGeometry y="292" width="841" height="44" as="geometry"/>
                 </mxCell>
-                <mxCell id="173" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;3.2.1 USER confronts best and second best classifier" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="172">
+                <mxCell id="173" value="&lt;span style=&quot;&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;3.2.1 USER confronts classifiers with comparable Validation error - Training error" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="172">
                     <mxGeometry width="480" height="44" as="geometry">
                         <mxRectangle width="480" height="44" as="alternateBounds"/>
                     </mxGeometry>
@@ -450,7 +450,7 @@
                         <mxRectangle width="480" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="707" value=".95 x 3 x 2.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="705">
+                <mxCell id="707" value=".95 x &lt;font color=&quot;#ff0000&quot;&gt;3 &lt;/font&gt;x 2.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="705">
                     <mxGeometry x="480" width="200" height="44" as="geometry">
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
