@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="ies9REeQdhCq48nj1nOn" name="Page-1">
-        <mxGraphModel dx="2024" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2007" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -69,7 +69,7 @@
                         <mxRectangle width="480" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="17" value="1 x 4 x 2.5 x &lt;font color=&quot;#ff0000&quot;&gt;3?&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="15" vertex="1">
+                <mxCell id="17" value="1 x 4 x 2.5 x &lt;font color=&quot;#ff0000&quot;&gt;3&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="15" vertex="1">
                     <mxGeometry x="480" width="200" height="44" as="geometry">
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
@@ -87,7 +87,7 @@
                         <mxRectangle width="480" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="21" value="1 x 4 x 2.5 x &lt;font color=&quot;#ff0000&quot;&gt;3?&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="19" vertex="1">
+                <mxCell id="21" value="1 x 4 x 2.5 x &lt;font color=&quot;#ff0000&quot;&gt;3&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="19" vertex="1">
                     <mxGeometry x="480" width="200" height="44" as="geometry">
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
@@ -100,17 +100,17 @@
                 <mxCell id="23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;align=center;" parent="2" vertex="1">
                     <mxGeometry y="208" width="841" height="44" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;5&amp;nbsp;USER writes features to extract" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="23" vertex="1">
+                <mxCell id="24" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;5&amp;nbsp;USER sets features to extract" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="23" vertex="1">
                     <mxGeometry width="480" height="44" as="geometry">
                         <mxRectangle width="480" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="25" value="1 x &lt;font color=&quot;#ff0000&quot;&gt;?&lt;/font&gt; x 2.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="23" vertex="1">
+                <mxCell id="25" value="6 x 4&amp;nbsp;x 2.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="23" vertex="1">
                     <mxGeometry x="480" width="200" height="44" as="geometry">
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="26" value="2.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="23" vertex="1">
+                <mxCell id="26" value="60" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="23" vertex="1">
                     <mxGeometry x="680" width="161" height="44" as="geometry">
                         <mxRectangle width="161" height="44" as="alternateBounds"/>
                     </mxGeometry>
@@ -133,20 +133,20 @@
                         <mxRectangle width="161" height="42" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="48" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;align=center;" vertex="1" parent="2">
+                <mxCell id="48" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;align=center;" parent="2" vertex="1">
                     <mxGeometry y="294" width="841" height="42" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;6 USER sets IP address of Segregation system" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="48">
+                <mxCell id="49" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;6 USER sets IP address of Segregation system" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="48" vertex="1">
                     <mxGeometry width="480" height="42" as="geometry">
                         <mxRectangle width="480" height="42" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="50" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="48">
+                <mxCell id="50" value="1 x 1 x 2.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="48" vertex="1">
                     <mxGeometry x="480" width="200" height="42" as="geometry">
                         <mxRectangle width="200" height="42" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="51" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="48">
+                <mxCell id="51" value="2.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="48" vertex="1">
                     <mxGeometry x="680" width="161" height="42" as="geometry">
                         <mxRectangle width="161" height="42" as="alternateBounds"/>
                     </mxGeometry>
@@ -218,13 +218,13 @@
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="46" value="72.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" parent="43" vertex="1">
+                <mxCell id="46" value="132.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" parent="43" vertex="1">
                     <mxGeometry x="680" width="161" height="44" as="geometry">
                         <mxRectangle width="161" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="47" value="sforzo 4: è criteriale e dipende da quanto è grande l'azienda&lt;br&gt;&lt;br&gt;lo sforzo è 4 x numero di criteri individuati&lt;br&gt;&lt;br&gt;Quindi avremo tipo 3 criteri, e.g. : azienda grande, piccola, media&lt;br&gt;&lt;br&gt;&lt;br&gt;Va scritto sul REPORT! Li ho evidenziati &lt;font color=&quot;#ff0000&quot;&gt;in rosso&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-                    <mxGeometry x="-650" y="500" width="370" height="130" as="geometry"/>
+                <mxCell id="47" value="sforzo 4: è criteriale e dipende da quanto è grande l'azienda&lt;br&gt;&lt;br&gt;lo sforzo è 4 x numero di criteri individuati&lt;br&gt;&lt;br&gt;Quindi avremo tipo 3 criteri, e.g. : azienda grande, piccola, media&lt;br&gt;&lt;br&gt;&lt;br&gt;Va scritto sul REPORT! Li ho evidenziati &lt;font color=&quot;#ff0000&quot;&gt;in rosso&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="-640" y="560" width="370" height="130" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
