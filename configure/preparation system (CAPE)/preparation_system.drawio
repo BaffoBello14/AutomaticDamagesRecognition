@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="JXWKTxL3_nK4k4YYtHSP" name="Page-1">
-        <mxGraphModel dx="917" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1414" dy="285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -8,10 +8,7 @@
                     <mxGeometry x="50" y="90" width="660" height="400" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="Confirm" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#2D7600;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#60a917;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="410" y="425" width="150" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="4" value="Go back" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#B20000;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e51400;whiteSpace=wrap;fontColor=#ffffff;" parent="1" vertex="1">
-                    <mxGeometry x="220" y="425" width="150" height="50" as="geometry"/>
+                    <mxGeometry x="240" y="420" width="280" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="Upper bound for absolut outlier detection:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="80" y="150" width="240" height="30" as="geometry"/>
