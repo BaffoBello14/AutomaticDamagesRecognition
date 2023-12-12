@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="BsJJMlh7w6Zq6paSyuua" name="Page-1">
-        <mxGraphModel dx="1768" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2024" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -172,7 +172,7 @@
                 <mxCell id="39" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;align=center;" parent="2" vertex="1">
                     <mxGeometry y="382" width="841" height="44" as="geometry"/>
                 </mxCell>
-                <mxCell id="40" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;8&amp;nbsp;USER closes data balancing form" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="39" vertex="1">
+                <mxCell id="40" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;8&amp;nbsp;USER closes configuration page" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="39" vertex="1">
                     <mxGeometry width="480" height="44" as="geometry">
                         <mxRectangle width="480" height="44" as="alternateBounds"/>
                     </mxGeometry>
