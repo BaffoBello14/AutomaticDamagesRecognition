@@ -64,6 +64,12 @@
                 <mxCell id="34" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Criteria&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="24" vertex="1">
                     <mxGeometry y="15" width="80" height="30" as="geometry"/>
                 </mxCell>
+                <mxCell id="35" value="Minimum Number of Labels :" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="420" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;1000&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="427.5" width="250" height="15" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
