@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="C3VMw4yVdiIqAn-BuisE" name="Page-1">
-        <mxGraphModel dx="1723" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2007" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -110,7 +110,7 @@
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="167" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="164" vertex="1">
+                <mxCell id="167" value="2.5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="164" vertex="1">
                     <mxGeometry x="680" width="161" height="44" as="geometry">
                         <mxRectangle width="161" height="44" as="alternateBounds"/>
                     </mxGeometry>
@@ -141,7 +141,7 @@
                         <mxRectangle width="480" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="174" value=".95 x 3 x 2.5&amp;nbsp;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="172" vertex="1">
+                <mxCell id="174" value=".95 x &lt;font color=&quot;#009900&quot;&gt;5 &lt;/font&gt;x 3 x 2.5&amp;nbsp;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="172" vertex="1">
                     <mxGeometry x="480" width="200" height="44" as="geometry">
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
@@ -315,6 +315,9 @@
                 </mxCell>
                 <mxCell id="751" value="NOTA: Qui 0.1 è la probabilità&lt;br&gt;che i risultati non siano&lt;br&gt;comparabili; l'ho scelta bassa così&lt;br&gt;perchè fidandomi dell'expertise&lt;br&gt;degli attori in gioco i risultati verranno&amp;nbsp;&lt;br&gt;spesso comparabili, con 1/10 di eccezione" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" parent="1" vertex="1">
                     <mxGeometry x="10" y="326" width="250" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="752" value="Il numero in verde è presente&lt;br&gt;perchè svolge l'operazione&lt;br&gt;per ogni classificatore presente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="230" width="190" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
