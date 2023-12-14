@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Pagina-1" id="Qn5EjGO15V_ZMp10GDhG">
-        <mxGraphModel dx="780" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+        <mxGraphModel dx="767" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -20,40 +20,34 @@
                     <mxGeometry x="55" y="80" width="540" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-114" value="Errors Analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="55" y="350" width="170" height="30" as="geometry"/>
+                    <mxGeometry x="90" y="350" width="170" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-140" value="7" style="text;html=1;strokeColor=none;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-                    <mxGeometry x="175" y="430" width="60" height="50" as="geometry"/>
+                    <mxGeometry x="210" y="430" width="60" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-138" value="197" style="text;html=1;strokeColor=none;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-                    <mxGeometry x="175" y="390" width="60" height="30" as="geometry"/>
+                    <mxGeometry x="210" y="390" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-137" value="Total # Errors" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#333333;" parent="1" vertex="1">
-                    <mxGeometry x="70" y="390" width="105" height="30" as="geometry"/>
+                    <mxGeometry x="105" y="390" width="105" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-139" value="Maximum Consecutive &lt;br&gt;Errors" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#333333;" parent="1" vertex="1">
-                    <mxGeometry x="68.87" y="430" width="106.13" height="50" as="geometry"/>
+                    <mxGeometry x="103.87" y="430" width="106.13" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-142" value="Thresholds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="335" y="350" width="170" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-145" value="Maximum Allowed &lt;br&gt;Total Errors" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#333333;" parent="1" vertex="1">
-                    <mxGeometry x="295" y="390" width="130" height="40" as="geometry"/>
+                    <mxGeometry x="325" y="390" width="130" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="CFf1ZAYyLSzgrhuiBxSv-146" value="" style="dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.sliderFocused;barPos=65.17;strokeColor=#3F51B5;opacity=100;strokeWidth=2;fillColor=#3F51B5;handleSize=30;shadow=0;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="445" y="396" width="110" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="CFf1ZAYyLSzgrhuiBxSv-147" value="150" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-                    <mxGeometry x="545" y="391" width="60" height="40" as="geometry"/>
+                <mxCell id="CFf1ZAYyLSzgrhuiBxSv-147" value="150" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="455" y="391" width="60" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-160" value="Maximum Allowed &lt;br&gt;Consecutive Errors" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#333333;" parent="1" vertex="1">
-                    <mxGeometry x="295" y="439" width="130" height="40" as="geometry"/>
+                    <mxGeometry x="325" y="439" width="130" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="CFf1ZAYyLSzgrhuiBxSv-161" value="" style="dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.sliderFocused;barPos=41.64;strokeColor=#3F51B5;opacity=100;strokeWidth=2;fillColor=#3F51B5;handleSize=30;shadow=0;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="445" y="450" width="110" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="CFf1ZAYyLSzgrhuiBxSv-162" value="15" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-                    <mxGeometry x="545" y="445" width="60" height="40" as="geometry"/>
+                <mxCell id="CFf1ZAYyLSzgrhuiBxSv-162" value="15" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="455" y="439" width="60" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="CFf1ZAYyLSzgrhuiBxSv-164" value="Errors - Thresholds Check" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="217.5" y="500" width="215" height="30" as="geometry"/>

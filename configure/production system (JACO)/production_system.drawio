@@ -1,44 +1,68 @@
 <mxfile host="65bd71144e">
     <diagram id="JXWKTxL3_nK4k4YYtHSP" name="Page-1">
-        <mxGraphModel dx="780" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="692" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="2" value="Configure Production System" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="50" y="90" width="660" height="400" as="geometry"/>
+                    <mxGeometry x="50" y="90" width="660" height="450" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="Confirm" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#2D7600;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#60a917;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="305" y="400" width="150" height="50" as="geometry"/>
+                    <mxGeometry x="305" y="470" width="150" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="Number of evaluation sessions :" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="81" y="180" width="240" height="30" as="geometry"/>
+                    <mxGeometry x="81" y="265" width="240" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="&lt;i&gt;&lt;font&gt;50&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="350" y="187.5" width="250" height="15" as="geometry"/>
+                    <mxGeometry x="350" y="272.5" width="250" height="15" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="Evaluation system IP address :" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="260" width="210" height="30" as="geometry"/>
+                    <mxGeometry x="80" y="345" width="210" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;192.168.1.11&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="350" y="267.5" width="250" height="15" as="geometry"/>
+                    <mxGeometry x="350" y="352.5" width="250" height="15" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="Client side system IP address :" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="300" width="210" height="30" as="geometry"/>
+                    <mxGeometry x="80" y="385" width="210" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="16" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;192.168.1.10&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="350" y="307.5" width="250" height="15" as="geometry"/>
+                    <mxGeometry x="350" y="392.5" width="250" height="15" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="Messaging system IP address :" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="343" width="210" height="30" as="geometry"/>
+                    <mxGeometry x="80" y="428" width="210" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;192.168.1.16&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="350" y="350.5" width="250" height="15" as="geometry"/>
+                    <mxGeometry x="350" y="435.5" width="250" height="15" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="Number of production sessions :" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="81" y="150" width="240" height="30" as="geometry"/>
+                <mxCell id="24" value="Number of production sessions :" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="81" y="235" width="240" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="&lt;i&gt;&lt;font&gt;5000&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="350" y="157.5" width="250" height="15" as="geometry"/>
+                <mxCell id="25" value="&lt;i&gt;&lt;font&gt;5000&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="242.5" width="250" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="230" y="150" width="300" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Number of Cars" style="whiteSpace=wrap;html=1;" vertex="1" parent="26">
+                    <mxGeometry width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Cars' Tipology" style="whiteSpace=wrap;html=1;" vertex="1" parent="26">
+                    <mxGeometry x="100" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Mean Age" style="whiteSpace=wrap;html=1;" vertex="1" parent="26">
+                    <mxGeometry x="200" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="300" style="whiteSpace=wrap;html=1;" vertex="1" parent="26">
+                    <mxGeometry y="30" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="low" style="whiteSpace=wrap;html=1;" vertex="1" parent="26">
+                    <mxGeometry x="100" y="30" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="31" style="whiteSpace=wrap;html=1;" vertex="1" parent="26">
+                    <mxGeometry x="200" y="30" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Criteria&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="165" width="80" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
