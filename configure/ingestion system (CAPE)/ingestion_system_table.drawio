@@ -208,9 +208,6 @@
                 <mxCell id="56" value="sforzo 4: è criteriale e dipende da quanto è grande l'azienda&lt;br&gt;&lt;br&gt;lo sforzo è 4 x numero di criteri individuati&lt;br&gt;&lt;br&gt;Quindi avremo tipo 3 criteri, e.g. : azienda grande, piccola, media&lt;br&gt;&lt;br&gt;&lt;br&gt;Va scritto sul REPORT! Li ho evidenziati &lt;font color=&quot;#ff0000&quot;&gt;in rosso&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
                     <mxGeometry x="-650" y="500" width="370" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" value="&lt;font color=&quot;#ff0000&quot;&gt;IL COSTO DEL DATA ANALYST è 1!!! MODIFICA TUTTA STA TABELLA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="-760" y="660" width="410" height="30" as="geometry"/>
-                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
