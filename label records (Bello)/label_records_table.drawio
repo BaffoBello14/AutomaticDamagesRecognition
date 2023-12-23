@@ -5,7 +5,7 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="31" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;strokeColor=#E6E6E6;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
-                    <mxGeometry x="-567" y="-79" width="841" height="393" as="geometry"/>
+                    <mxGeometry x="-567" y="-79" width="841" height="349" as="geometry"/>
                 </mxCell>
                 <mxCell id="32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="31" vertex="1">
                     <mxGeometry width="841" height="44" as="geometry"/>
@@ -61,26 +61,8 @@
                         <mxRectangle width="161" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="64" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="31" vertex="1">
-                    <mxGeometry y="129" width="841" height="44" as="geometry"/>
-                </mxCell>
-                <mxCell id="65" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;3 FOR EACH record in the raw session" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" parent="64" vertex="1">
-                    <mxGeometry width="480" height="44" as="geometry">
-                        <mxRectangle width="480" height="44" as="alternateBounds"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="66" value="10 000" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="64" vertex="1">
-                    <mxGeometry x="480" width="200" height="44" as="geometry">
-                        <mxRectangle width="200" height="44" as="alternateBounds"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="67" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" parent="64" vertex="1">
-                    <mxGeometry x="680" width="161" height="44" as="geometry">
-                        <mxRectangle width="161" height="44" as="alternateBounds"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="44" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="31" vertex="1">
-                    <mxGeometry y="173" width="841" height="44" as="geometry"/>
+                    <mxGeometry y="129" width="841" height="44" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;3.1 FOR EACH photo" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" parent="44" vertex="1">
                     <mxGeometry width="480" height="44" as="geometry">
@@ -98,25 +80,25 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="60" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="31" vertex="1">
-                    <mxGeometry y="217" width="841" height="44" as="geometry"/>
+                    <mxGeometry y="173" width="841" height="44" as="geometry"/>
                 </mxCell>
                 <mxCell id="61" value="&lt;span style=&quot;&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;3.1.1 USER analyzes the photo" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" parent="60" vertex="1">
                     <mxGeometry width="480" height="44" as="geometry">
                         <mxRectangle width="480" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="62" value="100 000 x 4 x 1.3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="60" vertex="1">
+                <mxCell id="62" value="10 x 3 x 1.3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="60" vertex="1">
                     <mxGeometry x="480" width="200" height="44" as="geometry">
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="63" value="520 000" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="60" vertex="1">
+                <mxCell id="63" value="39" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="60" vertex="1">
                     <mxGeometry x="680" width="161" height="44" as="geometry">
                         <mxRectangle width="161" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="48" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="31" vertex="1">
-                    <mxGeometry y="261" width="841" height="44" as="geometry"/>
+                    <mxGeometry y="217" width="841" height="44" as="geometry"/>
                 </mxCell>
                 <mxCell id="49" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;4&lt;/span&gt;&lt;/span&gt;&amp;nbsp;USER clicks on one of the extent damage buttons" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" parent="48" vertex="1">
                     <mxGeometry width="480" height="44" as="geometry">
@@ -134,7 +116,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="52" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="31" vertex="1">
-                    <mxGeometry y="305" width="841" height="44" as="geometry"/>
+                    <mxGeometry y="261" width="841" height="44" as="geometry"/>
                 </mxCell>
                 <mxCell id="53" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;5 USER closes label records window" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" parent="52" vertex="1">
                     <mxGeometry width="480" height="44" as="geometry">
@@ -152,7 +134,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="56" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="31" vertex="1">
-                    <mxGeometry y="349" width="841" height="44" as="geometry"/>
+                    <mxGeometry y="305" width="841" height="44" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" parent="56" vertex="1">
                     <mxGeometry width="480" height="44" as="geometry">
@@ -164,13 +146,10 @@
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="59" value="&lt;b&gt;520 003.9&lt;/b&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="56" vertex="1">
+                <mxCell id="59" value="&lt;b&gt;42.9&lt;/b&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="56" vertex="1">
                     <mxGeometry x="680" width="161" height="44" as="geometry">
                         <mxRectangle width="161" height="44" as="alternateBounds"/>
                     </mxGeometry>
-                </mxCell>
-                <mxCell id="70" value="55.9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="290" y="280" width="50" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
