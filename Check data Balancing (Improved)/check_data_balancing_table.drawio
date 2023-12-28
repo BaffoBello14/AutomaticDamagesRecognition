@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Pagina-1" id="qciENuRhxDM16z5-KsNE">
-        <mxGraphModel dx="4457" dy="3105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+        <mxGraphModel dx="4217" dy="3105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -100,17 +100,17 @@
                 <mxCell id="08yrIDPDZHMKDpP9hL6r-5" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;align=center;" parent="ZxOc-NwCXkHzNGyO08E0-48" vertex="1">
                     <mxGeometry y="217" width="841" height="44" as="geometry"/>
                 </mxCell>
-                <mxCell id="08yrIDPDZHMKDpP9hL6r-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;3.2 USER decides if number of exceeding class is too high" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="08yrIDPDZHMKDpP9hL6r-5" vertex="1">
+                <mxCell id="08yrIDPDZHMKDpP9hL6r-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;3.2 USER &lt;font color=&quot;#ff0000&quot;&gt;checks&lt;/font&gt; if number of exceeding class is too high" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" parent="08yrIDPDZHMKDpP9hL6r-5" vertex="1">
                     <mxGeometry width="480" height="44" as="geometry">
                         <mxRectangle width="480" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="08yrIDPDZHMKDpP9hL6r-7" value="9 x 4 x 1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="08yrIDPDZHMKDpP9hL6r-5" vertex="1">
+                <mxCell id="08yrIDPDZHMKDpP9hL6r-7" value="9 x &lt;font color=&quot;#ff0000&quot;&gt;2 &lt;/font&gt;x 1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="08yrIDPDZHMKDpP9hL6r-5" vertex="1">
                     <mxGeometry x="480" width="200" height="44" as="geometry">
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="08yrIDPDZHMKDpP9hL6r-8" value="36" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="08yrIDPDZHMKDpP9hL6r-5" vertex="1">
+                <mxCell id="08yrIDPDZHMKDpP9hL6r-8" value="18" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="08yrIDPDZHMKDpP9hL6r-5" vertex="1">
                     <mxGeometry x="680" width="161" height="44" as="geometry">
                         <mxRectangle width="161" height="44" as="alternateBounds"/>
                     </mxGeometry>
@@ -218,12 +218,12 @@
                         <mxRectangle width="200" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="ZxOc-NwCXkHzNGyO08E0-99" value="75" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" parent="ZxOc-NwCXkHzNGyO08E0-96" vertex="1">
+                <mxCell id="ZxOc-NwCXkHzNGyO08E0-99" value="57" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" parent="ZxOc-NwCXkHzNGyO08E0-96" vertex="1">
                     <mxGeometry x="680" width="161" height="44" as="geometry">
                         <mxRectangle width="161" height="44" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2" value="Improvment : il numero di classi viene fissato clusterizzando &lt;br&gt;le informazioni di classificatori simili" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="2" value="Improvment : il numero di classi viene fissato clusterizzando &lt;br&gt;le informazioni di classificatori simili" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="270" y="130" width="340" height="40" as="geometry"/>
                 </mxCell>
             </root>
